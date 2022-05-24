@@ -1,0 +1,54 @@
+
+
+body {
+    max-width: 800px;
+    margin: auto;
+    background-color: lightgray;
+}
+
+/* ############# header ############# */
+
+header {
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2rem;
+    color: gray;
+    text-decoration: overline underline;
+    text-align: center;
+}
+
+header p {
+    text-align: center;
+}
+
+header nav {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: gray;
+}
+
+header nav a {
+    text-decoration: none;
+    color: lightgray;
+}
+
+/* ############# main ############# */
+
+main h1{
+    color: gray;
+    text-decoration: underline;
+    text-align: center;
+}
+
+section {
+    border: 1px solid gray;
+    margin-bottom: 20px;
+}
+
+/* ############# imagens ############# */
+
+.imagens {
+    width: 100%;
+}
